@@ -1,0 +1,30 @@
+.navigation-container{
+    z-index: 10;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.cont{
+    background-color: aqua;
+    opacity: 50%;
+    padding: 0.5rem;
+    width: 25%;
+    margin: 0 auto 1rem;
+    border-radius: 10px;
+}
+
+.nav-link{
+    margin: 0.2rem 0.8rem;
+    font-size: 1.5rem;
+    color: #371B58;
+    padding: 0.35rem;
+}
+
+.active{
+    background: #371B58;
+    border-radius: 50%;
+    
+    color: aqua;
+  }

@@ -1,0 +1,25 @@
+.profile-container{
+    display: flex;
+    margin: 5rem 20rem 3rem;
+}
+
+.profile-details{
+    margin-left: 10rem;
+    width: 75%;
+    color: aqua;
+    text-align: left;
+}
+
+.exp-container{
+    display: flex;
+}
+
+.box-exp{
+    padding: 2rem;
+    margin: 1rem 0.5rem;
+    color: #371B58;
+    background-color: aqua;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    text-align: center;
+}
